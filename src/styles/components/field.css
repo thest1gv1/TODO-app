@@ -23,7 +23,7 @@
 
   width: 100%;
   height: var(--input-height);
-  padding-inline: var(--border);
+  padding-inline: var(--fieldInputPaddingX);
   border-radius: var(--border-radius);
 
   &:hover,
